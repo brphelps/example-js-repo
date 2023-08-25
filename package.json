@@ -1,0 +1,19 @@
+{
+  "name": "example-js-repo",
+  "version": "1.0.0",
+  "description": "Just an example repo with some JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brphelps/example-js-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brphelps/example-js-repo/issues"
+  },
+  "homepage": "https://github.com/brphelps/example-js-repo#readme"
+}
