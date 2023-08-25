@@ -7,4 +7,4 @@ stuff = {
 
 module.exports = stuff
 
-stuff.entryPoint.thingA.thingAB()
+stuff.entryPoint.thingA.thing1()
